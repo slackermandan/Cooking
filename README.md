@@ -15,4 +15,4 @@ entry: true
 ---
 ```
 
-Any page with `entry: true` is listed automatically, oldest first, on the Cooking landing page and on the Cooking card on slackermandan.com (via `pages.json`).
+Any page with `entry: true` is listed automatically, oldest first (add `pinned: true` to keep a page at the top), on the Cooking landing page and on the Cooking card on slackermandan.com (via `pages.json`).
